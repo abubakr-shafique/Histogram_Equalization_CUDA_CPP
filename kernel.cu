@@ -1,3 +1,4 @@
+//This program is written by Abubakr Shafique (abubakr.shafique@gmail.com) 
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
 #include "Equalization_CUDA.h"
