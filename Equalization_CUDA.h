@@ -1,3 +1,4 @@
+//This program is written by Abubakr Shafique (abubakr.shafique@gmail.com) 
 #ifndef _Equalization_CUDA_
 #define _Equalization_CUDA_
 
